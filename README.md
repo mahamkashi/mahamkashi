@@ -82,13 +82,6 @@
 ---
 
 
-<!-- 😹 Funny GIF with Quotation -->
-<p align="center" style="margin-top: 20px;">
-  <img src="https://i.makeagif.com/media/6-19-2018/0XZeSZ.gif" width="350" style="border-radius: 12px; box-shadow: 0px 0px 12px rgba(0,0,0,0.3);" alt="Funny GIF" />
-</p>
-<p align="center" style="font-style: italic; color: #FF69B4; margin-top: 5px;">
-  "Sometimes, the code writes itself… or maybe not 😅"
-</p>
 
 
 
